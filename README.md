@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Similarity evaluator of hackathons projects (only supporting PT-BR for now)**
 
-- 🌱 I’m currently learning : **React & Gatsby**
+- 🌱 I’m currently improving : **React & Gatsby**
 
 - 📫 How to reach me : [**Email**](mailto:pedroh.seven@gmail.com) | [**Whatsapp**](https://api.whatsapp.com/send?phone=5522992815580)
 
