@@ -17,8 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/inpedromendes" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613062384~hmac=560ce7c74afd3a4e0736f14805343cda" alt="inpedromendes" height="30" width="40" style="fill: #fff;color:#fff"/></a>
-<a href="https://instagram.com/inpedromendes" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1613062355~hmac=09e46b2af78dacaf76743f9a3f2a7499" alt="inpedromendes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inpedromendes" target="blank">
+  <img align="center" src="https://sweetsoul.sirv.com/Images/Github/Feed%20_%20LinkedIn-0.svg" alt="inpedromendes" height="40" width="40" style="fill: #fff;color:#fff"/>
+  </a>
+<a href="https://instagram.com/inpedromendes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="inpedromendes" height="40" width="40" /></a>
 </p>
 
 ---
