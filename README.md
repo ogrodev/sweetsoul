@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sweetsoul" alt="sweetsoul" /></a> </p>
 
-- 🔭 I’m currently working on **Similarity evaluator of hackathons projects (only supporting PT-BR for now)**
+- 🔭 I’m currently working on **Food delivery platform**
 
-- 🌱 I’m currently improving : **React & Gatsby**
+- 🌱 I’m currently improving : **Next.JS & Chakra-UI**
 
 - 📫 How to reach me : [**Email**](mailto:pedroh.seven@gmail.com) | [**Whatsapp**](https://api.whatsapp.com/send?phone=5522992815580)
 
