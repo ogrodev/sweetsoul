@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetsoul&label=Profile%20views&color=0e75b6&style=flat" alt="sweetsoul" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sweetsoul" alt="sweetsoul" /></a> </p>
-
 - 🔭 I’m currently working on **Food delivery platform**
 
 - 🌱 I’m currently improving : **Next.JS & Chakra-UI**
@@ -22,6 +20,12 @@
   </a>
 <a href="https://instagram.com/inpedromendes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="inpedromendes" height="40" width="40" /></a>
 </p>
+
+---
+
+My recent activity:
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@326de717-405d-4230-acd3-ebce6b855246/d0e2f14e-9fc1-4694-a410-c6ef8952698d.png" width="600" height="450" /></a>
 
 ---
 
