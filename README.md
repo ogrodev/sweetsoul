@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetsoul&label=Profile%20views&color=0e75b6&style=flat" alt="sweetsoul" /> </p>
 
-- 🔭 I’m currently working on **Food delivery platform**
-
-- 🌱 I’m currently improving : **Next.JS & Chakra-UI**
+- 🔭 I’m currently working on [**Coliiv**](https://coliiv.com)
 
 - 📫 How to reach me : [**Email**](mailto:pedroh.seven@gmail.com) | [**Whatsapp**](https://api.whatsapp.com/send?phone=5522992815580)
 
