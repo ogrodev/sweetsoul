@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetsoul&label=Profile%20views&color=0e75b6&style=flat" alt="sweetsoul" /> </p>
 
-- 🔭 I’m currently working on [**Coliiv**](https://coliiv.com)
+- 🔭 I’m currently working on [**BairesDev**](https://bairesdev.com)
 
 - 📫 How to reach me : [**Email**](mailto:pedroh.seven@gmail.com) | [**Whatsapp**](https://api.whatsapp.com/send?phone=5522992815580)
 
@@ -23,7 +23,7 @@
 
 My recent activity:
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@326de717-405d-4230-acd3-ebce6b855246/d0e2f14e-9fc1-4694-a410-c6ef8952698d.png" width="600" height="450" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sweetsoul/136d4225-81ce-474e-bd96-619574c96026.png" width="600" height="450" /></a>
 
 ---
 
