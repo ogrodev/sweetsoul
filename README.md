@@ -1,6 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Pedro Mendes</h1>
 <h3 align="center">I'll change the world, and I realized that this will happen by coding.</h3>
-<h6 align="center">I'm a WIP as a DEV, but believe in me, I'm on my way to be one heck of a dev.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetsoul&label=Profile%20views&color=0e75b6&style=flat" alt="sweetsoul" /> </p>
 
