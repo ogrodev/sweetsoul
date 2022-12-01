@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetsoul&label=Profile%20views&color=0e75b6&style=flat" alt="sweetsoul" /> </p>
 
-- 🔭 I’m currently working on [**BairesDev**](https://bairesdev.com)
-
 - 📫 How to reach me : [**Email**](mailto:pedroh.seven@gmail.com) | [**Whatsapp**](https://api.whatsapp.com/send?phone=5522992815580)
 
 - 📄 Know about my experiences : [Notion/inpedromendes](https://www.notion.so/inpedromendes/Web-CV-Pedro-Mendes-EN-30329a593a974f0aa21bda185979edd6)
